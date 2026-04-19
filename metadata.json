@@ -1,0 +1,6 @@
+{
+  "name": "Passport Photo Generator",
+  "description": "A production-ready full-stack web application for generating high-quality passport size photos. Supports crop, layout arrangement, high-quality PDF export, and automatic background removal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
